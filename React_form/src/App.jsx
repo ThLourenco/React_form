@@ -12,7 +12,7 @@ function App() {
   return(
     <div className='App'>
       <h1>Form em React</h1>
-      <MyForm userName="Thiago" email="taeiqw@email.com"/>
+      <MyForm userName="Thiago" userEmail="taeiqw@email.com"/>
     </div>
   );
 }
